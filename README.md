@@ -1,1 +1,1 @@
-# Aseel_Figma_Task3
+This project is a Front-End implementation based on a provided Figma design. The design was converted into a responsive website using HTML and CSS, following the original colors, fonts, spacing, and layout. Flexbox was used for layout structure, with simple hover effects and transitions. The project files are clean and organized, and the final result was uploaded to GitHub.
